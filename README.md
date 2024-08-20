@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @loukyadonthumalla
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on loukya.donthumalla@gmail.com, +91 93471 70705
 - 😄 Pronouns: she/her
 
